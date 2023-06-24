@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkemilus=self.webpackChunkemilus||[]).push([[618],{1618:function(e,u,a){a.r(u),a.d(u,{DefaultDashboard:function(){return s}});a(2791);var n=a(184),s=function(){return(0,n.jsx)(n.Fragment,{children:"Dashboardadsdas"})};u.default=s}}]);
+//# sourceMappingURL=618.8c432227.chunk.js.map
